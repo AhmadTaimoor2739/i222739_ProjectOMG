@@ -1,2 +1,3 @@
 Hello, my name is Ahmed.
 This is Class Activity 3.
+Of the course "Software Construction and Development".
